@@ -1,0 +1,8 @@
+﻿{
+  "nameSpace": "IIS.Itog8",
+  "className": "Статус",
+  "enumObjects": {
+    "Расторжен": "",
+    "Заключен": ""
+  }
+}

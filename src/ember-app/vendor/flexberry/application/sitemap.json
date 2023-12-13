@@ -1,0 +1,64 @@
+﻿{
+  "applicationCaption": "Itog8",
+  "applicationTitle": "Itog8",
+  "items": [
+    {
+      "link": null,
+      "menuName": "itog8",
+      "caption": "Itog8",
+      "title": "Itog8",
+      "children": [
+        {
+          "link": "i-i-s-itog8-услуги-l",
+          "menuName": null,
+          "caption": "Услуги",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-itog8-затр-время-l",
+          "menuName": null,
+          "caption": "Затр время",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-itog8-длительность-l",
+          "menuName": null,
+          "caption": "Длительность",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-itog8-клиент-l",
+          "menuName": null,
+          "caption": "Клиент",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-itog8-дир-отд-по-раб-с-кл-l",
+          "menuName": null,
+          "caption": "Дир отд по раб с кл",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-itog8-договор-l",
+          "menuName": null,
+          "caption": "Договор",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-itog8-расчет-ост-врем-l",
+          "menuName": null,
+          "caption": "Расчет ост врем",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
